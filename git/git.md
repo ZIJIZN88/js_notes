@@ -11,6 +11,9 @@
     - git push
     - git push -u
     - git pull
+4. git学习参考资料
+		- https://www.liaoxuefeng.com/wiki/896043488029600
+		- 时光穿梭机 -> 远程仓库
 
 
 ### git init
