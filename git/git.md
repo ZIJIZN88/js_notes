@@ -10,6 +10,7 @@
     - git remote add
     - git push
     - git push -u
+    - git pull
 
 
 ### git init
