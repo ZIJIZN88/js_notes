@@ -22,7 +22,7 @@
 	3. 反引号
 3. boolean
 4. null 与 undefined
-5. object 与 symbol
+5. object 与 symbol(学完object)
 6. 怎么判断一个变量是什么类型 typeof
 
 
